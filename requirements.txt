@@ -1,0 +1,4 @@
+requests
+faker
+pytest
+pytest-html

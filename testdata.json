@@ -1,0 +1,61 @@
+{
+    "bookings": [
+        {
+            "firstname": "test1",
+            "lastname": "1",
+            "totalprice": 500,
+            "depositpaid": true,
+            "bookingdates": {
+                "checkin": "2023-01-01",
+                "checkout": "2023-01-02"
+            },
+            "additionalneeds": "Lunch"
+        },
+        {
+            "firstname": "test2",
+            "lastname": "2",
+            "totalprice": 1000,
+            "depositpaid": false,
+            "bookingdates": {
+                "checkin": "2023-01-01",
+                "checkout": "2023-01-02"
+            },
+            "additionalneeds": ""
+        },
+        {
+            "firstname": "test3",
+            "lastname": "3",
+            "totalprice": 1500,
+            "depositpaid": true,
+            "bookingdates": {
+                "checkin": "2023-01-01",
+                "checkout": "2023-01-02"
+            },
+            "additionalneeds": "Dinner"
+        }
+    ],
+    "updates": [
+        {
+            "firstname": "test1",
+            "lastname": "1",
+            "totalprice": 1000,
+            "depositpaid": true,
+            "bookingdates": {
+                "checkin": "2023-01-01",
+                "checkout": "2023-01-02"
+            },
+            "additionalneeds": "Lunch"
+        },
+        {
+            "firstname": "test2",
+            "lastname": "2",
+            "totalprice": 1500,
+            "depositpaid": false,
+            "bookingdates": {
+                "checkin": "2023-01-01",
+                "checkout": "2023-01-02"
+            },
+            "additionalneeds": ""
+        }
+    ]
+}
